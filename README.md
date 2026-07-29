@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About me
 
-I'm a 16-year-old developer and programming teacher from Tashkent. I build full-stack web apps, mobile apps, and games — and teach HTML, CSS & JS to school-age students through my own course, **SYNTAX / CODE LAB**.
+I'm a developer and programming teacher from Tashkent. I build full-stack web apps, mobile apps, and games — and teach HTML, CSS & JS to school-age students through my own course, **SYNTAX / CODE LAB**.
 
 - 🏗️ Currently building **CodeSchool** — an EdTech platform for learning web development
 - 🌿 Working on **EcoMonitor** — ecological monitoring for 14+ Uzbek cities
